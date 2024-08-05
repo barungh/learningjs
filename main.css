@@ -1,5 +1,9 @@
 html {
-  background-color: peachpuff;
+  background-color: lightgrey;
+}
+
+.user__text {
+  color: purple;
 }
 #btn{
   border: 2px solid blue;
