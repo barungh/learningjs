@@ -1,3 +1,7 @@
 html {
   background-color: lightgrey;
 }
+
+.user__text {
+  color: purple;
+}
