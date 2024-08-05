@@ -1,2 +1,3 @@
-console.log("hey");
-console.log("Yay !")
+function greet(name) {
+  console.log(`Hey ${name}`);
+}
